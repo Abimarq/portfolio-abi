@@ -234,7 +234,7 @@ color: crimson;
 }
 
 .contact-section img {
-  width: 750px;
+  width: 50px;
   height: 700px;
   bottom: 0px;
 }
@@ -254,8 +254,8 @@ color: crimson;
 }
 
 .form-group .input {
-  padding: 10px 20px;
-  margin-bottom: 1em;
+  padding: 20px 200px;
+  margin-bottom: 5em;
   background: none;
   border: none;
   border-bottom: 1px solid #fff;
@@ -278,10 +278,12 @@ color: crimson;
   justify-content: center;
   align-items: center;
   width: 100vw;
-  height: 200px;
+  height: 200+
+  px;
   padding: 2em;
   background-color: aqua;
 }
+ 
 
 .footer-content h2 {
   font-size: 3em;
@@ -305,7 +307,7 @@ color: crimson;
 
 .portfolio,
 .contact-section {
-  width: 100vw;
+  width: 1000vw;
   background-color: #9092a5;
   color: #fff;
 }
@@ -368,7 +370,9 @@ color: crimson;
   display: flex;
   justify-content: center;
   margin: 1em;
+
 }
+
 
 .project-details-button a {
   text-decoration:dashed;  
@@ -387,8 +391,8 @@ color: crimson;
 
 
 .contact-section img {
-  width: 450px;
-  height: 700px;
+  width: 10px;
+  height: 20px;
   bottom: 0px;
 }
 
@@ -453,5 +457,5 @@ color: crimson;
 }
 
 .sotial-networks i {
-  font-size: 1.5em;
+  font-size: 1 
 }
